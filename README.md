@@ -25,4 +25,5 @@ I'm a recent B.Sc. Software Engineering graduate from Blekinge Institute of Tech
 ### 📊 My GitHub Stats
 
 [![Vahidin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vahidino&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vahidino&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
